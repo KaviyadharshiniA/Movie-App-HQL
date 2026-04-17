@@ -1,0 +1,6 @@
+com\example\movie\MovieApplication.class
+com\example\movie\util\HibernateUtil.class
+com\example\movie\model\Movie.class
+com\example\movie\dao\MemberDAO.class
+com\example\movie\dao\MovieDAO.class
+com\example\movie\model\Member.class
